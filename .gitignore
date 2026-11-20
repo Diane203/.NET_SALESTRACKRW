@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Package and local files
+packages/
+*.nupkg
+TestResults/
+
+# Local application settings containing credentials
+# appsettings.Local.json
